@@ -80,16 +80,7 @@
   font-display: swap;
   src: url("/et-fonts/Doggybag-Round.ttf");
 }
-div.et_pb_section.et_pb_section_3 {
-  background-position: center top;
-  background-image: linear-gradient(
-      180deg,
-      rgba(0, 0, 0, 0.6) 1%,
-      rgba(0, 0, 0, 0.5) 54%,
-      rgba(0, 0, 0, 0.25) 100%
-    ),
-    url(https://www.skimasktoshi.com/wp-content/uploads/2025/01/Believe-in-Something.jpeg) !important;
-}
+
 .et_pb_section_3.et_pb_section {
   padding-top: 8%;
   padding-bottom: 15%;
@@ -151,7 +142,7 @@ div.et_pb_section.et_pb_section_3 {
   font-weight: 800;
   text-transform: uppercase;
   font-size: 62px;
-  color: #ffffff !important;
+  color: black;
   line-height: 1.2em;
   text-align: center;
   text-shadow: 0em 0.08em 0em rgba(0, 0, 0, 0.4);
@@ -203,19 +194,19 @@ div.et_pb_section.et_pb_section_3 {
 }
 .et_pb_blurb_4 .et-pb-icon,
 .et_pb_blurb_6 .et-pb-icon {
-  color: #3a51fa;
+  color: #fc0000;
   font-family: ETmodules !important;
   font-weight: 400 !important;
 }
 .et_pb_blurb_5 .et-pb-icon {
-  color: #3a51fa;
+  color: #fc0000;
   font-family: FontAwesome !important;
   font-weight: 900 !important;
 }
 .et_pb_section_4.et_pb_section {
   padding-top: 5vw;
   padding-bottom: 8vw;
-  background-color: #3a51fa !important;
+  background-color: #fc0000 !important;
 }
 .et_pb_row_7.et_pb_row {
   padding-bottom: 15px !important;
@@ -415,7 +406,7 @@ body
   font-size: 18px;
   font-family: "", sans-serif !important;
   font-weight: 700 !important;
-  background-color: #3a51fa;
+  background-color: #fc0000;
 }
 body
   #page-container
@@ -444,7 +435,7 @@ body
 .et_pb_section_6.et_pb_section {
   padding-top: 2%;
   padding-bottom: 2%;
-  background-color: #3a51fa !important;
+  background-color: #fc0000 !important;
 }
 .et_pb_social_media_follow_network_5.et-social-dbdb-custom-image a {
   background-image: url("https://www.skimasktoshi.com/wp-content/uploads/2025/01/dscreener.png");
@@ -612,7 +603,7 @@ ul.et_pb_social_media_follow_1 {
   .et_pb_heading_8 .et_pb_heading_container h5,
   .et_pb_heading_8 .et_pb_heading_container h6 {
     font-size: 20px;
-    color: #ffffff !important;
+    color: b;
   }
   .et_pb_heading_4,
   .et_pb_heading_6,
