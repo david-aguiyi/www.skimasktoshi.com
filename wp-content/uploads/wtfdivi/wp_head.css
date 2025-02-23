@@ -1,0 +1,10 @@
+#main-header {
+  display: none;
+}
+#page-container {
+  padding-top: 0 !important;
+  margin-top: -1px !important;
+}
+.et_transparent_nav #main-content .container {
+  padding-top: 58px !important;
+}
