@@ -2454,6 +2454,7 @@ div[data-dsm-tooltip] {
   -o-transition-duration: 0.3s;
   transition-duration: 0.3s;
 }
+
 .dsm-sweep-to-right:before {
   content: "";
   position: absolute;
